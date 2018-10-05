@@ -1,1 +1,2 @@
-# Human_induced_load_gan
+# Generative Adversarial Networks for Simulating Human-induced Loads
+# 
