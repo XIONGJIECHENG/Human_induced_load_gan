@@ -8,5 +8,4 @@ Code for generating samples of human-induced loads for different types
 * Numpy
 
 ## Trained weights
-The weights of training 1 million times using real samples：[Trained Weights]
-(https://github.com/igul222/improved_wgan_training).
+The weights of training 1 million times using real samples：[Improved Training of Wasserstein GANs](https://github.com/igul222/improved_wgan_training).
