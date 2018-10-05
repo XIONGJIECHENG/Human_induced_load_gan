@@ -1,5 +1,5 @@
 # Generative Adversarial Networks for Simulating Human-induced Loads
-Code for generating samples of human-induced loads for different types
+The code 'Gene_sample' shows the GAN architecture for simulating human-induced Loads. With the required packages and the trained weights, is's utilized to generated differnent types of human-induced loads.
 
 ## The following packages are required:
 * Python 3.6
