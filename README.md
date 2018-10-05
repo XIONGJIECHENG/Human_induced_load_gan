@@ -8,4 +8,4 @@ Code for generating samples of human-induced loads for different types
 * Numpy
 
 ## Trained weights
-The weights of training 1 million times using real samples：[Trained Weighs](https://drive.google.com/open?id=1zLen63lKyv1qlwWiyPUyaSeSL2Mbj46U).
+The weights of training 1 million times using real samples：[Trained Weights](https://drive.google.com/open?id=1zLen63lKyv1qlwWiyPUyaSeSL2Mbj46U).
