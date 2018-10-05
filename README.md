@@ -22,4 +22,4 @@ The weights of training 1 million times using real samples：[Trained Weights](h
 * gene_samples9　1.50 Hz bouncing
 * gene_samples10　2.10 Hz bouncing
 * gene_samples11　2.70 Hz bouncing
-* gene_samples12*　　*　3.00 Hz bouncing
+* gene_samples12　3.00 Hz bouncing
