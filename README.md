@@ -10,6 +10,9 @@ The code 'gene_sample' shows the GAN architecture for simulating human-induced L
 ## Trained weights
 The weights of training 1 million times using real samples：[Trained Weights](https://drive.google.com/open?id=1zLen63lKyv1qlwWiyPUyaSeSL2Mbj46U).
 
+## Generated samples
+[12000 generated samples](https://drive.google.com/open?id=1o_EVMmPVpJuH5o-TmXdqEFcIgpPFucqd).
+
 ## Types of generated samples
 * gene_samples1　 1.50 Hz walking
 * gene_samples2　 1.75 Hz walking
